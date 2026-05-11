@@ -1,2 +1,2 @@
 # turntable
-a turntable driven by a 42STH34-1504MAC connected to a TMC2209 connected to an arduino nano r4, controlled with a direction switch, an on/off button, and a speed dial
+a turntable driven by a BLDC controlled by a dial and direction/on/off switch. will add instructions, schematic, list of materials, and irl photos once i've assembled it.
